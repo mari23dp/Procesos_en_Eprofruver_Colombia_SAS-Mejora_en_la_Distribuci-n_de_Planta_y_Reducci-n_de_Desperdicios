@@ -1,4 +1,4 @@
-# Optimización de Procesos en Eprofruver Colombia SAS
+# Procesos en Eprofruver Colombia SAS
 
 ## Descripción
 Este proyecto busca mejorar la eficiencia operativa en la planta de producción de **Eprofruver Colombia SAS**, una empresa especializada en la comercialización de frutas, verduras y hortalizas para clientes institucionales. Se centra en la optimización de los procesos productivos y la reorganización de la planta para minimizar los tiempos de inactividad y reducir el desperdicio de materiales.
